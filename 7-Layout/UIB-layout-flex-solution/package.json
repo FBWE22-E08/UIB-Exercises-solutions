@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "jest --runInBand --forceExit"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DigitalCareerInstitute/UIB-layout-flex",
+    "id": 211095151
+  }
+}
