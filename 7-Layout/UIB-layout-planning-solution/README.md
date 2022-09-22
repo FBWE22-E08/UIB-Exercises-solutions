@@ -8,6 +8,6 @@
     - Cards containing info 
     - Footer  
 
-![pen-paper-mobile](/images/mobile.jpg)
-![pen-paper-tablet](/images/tablet.jpg)
-![pen-paper-desktop](/images/desktop.jpg)
+![pen-paper-mobile](./images/mobile.jpg)
+![pen-paper-tablet](./images/tablet.jpg)
+![pen-paper-desktop](./images/desktop.jpg)
