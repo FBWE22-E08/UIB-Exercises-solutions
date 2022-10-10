@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  display: flex;
+  border: 2px solid hotpink;
+  height: 100vh;
+}
+
+div {
+  border: 2px dotted chartreuse;
+  width: 20%;
+}
+
+.column:hover {
+  background-color: yellow;
+  animation: highlight 2s infinite alternate-reverse;
+}
+
+@keyframes highlight {
+  from,to {
+    background-color: yellow;
+  }
+
+  50% {
+    background-color: transparent;
+  }
+}
